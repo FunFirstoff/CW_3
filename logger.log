@@ -1,0 +1,422 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:41] "GET /static/css/styles.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:41] "GET /static/img/bookmark.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:41] "GET /static/img/eye.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:45] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:45] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:45] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:46] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:47] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:47] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:47] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:47] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:52] "[33mGET /post.html HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:56] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:56] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:56] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:58] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:09:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:07] "GET /posts/8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:07] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:07] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:07] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:11] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:12] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:12] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:12] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:10:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:05] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:05] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:08] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:11] "[32mGET /bookmarks/add/3 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:17] "[32mGET /bookmarks/add/6 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:17] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:17] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:17] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:18] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:18] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:18] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:21] "[32mGET /bookmarks/remove/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:22] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:22] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:22] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:22] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:25] "[32mGET /bookmarks/add/3 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:25] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:25] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:25] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:28] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:29] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:30] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:30] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:30] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:30] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:31] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:31] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:31] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:37] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:38] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:38] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:38] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:41] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:41] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:41] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:43] "[32mGET /bookmarks/add/4 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:45] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:45] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:45] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:45] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:49] "GET /posts/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:49] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:50] "GET /posts/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:50] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:50] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:50] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск постов пользователя
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:52] "GET /users/larry HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:52] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:52] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:52] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск постов пользователя
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:53] "GET /users/larry HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:53] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:53] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:53] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск постов пользователя
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:56] "GET /users/leo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:56] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:56] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:56] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:58] "GET /posts/5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:59] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:11:59] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:00] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:00] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:00] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:01] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:01] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:01] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:04] "[32mGET /bookmarks/remove/3 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:04] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:04] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:04] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:05] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:05] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:05] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:06] "[32mGET /bookmarks/remove/6 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:06] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:06] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:06] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[32mGET /bookmarks/remove/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:07] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:08] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "[32mGET /bookmarks/remove/4 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:09] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:12] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:12] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:12] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:12] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:13] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:13] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:13] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:16] "[32mGET /bookmarks/add/2 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:17] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:17] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:17] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:17] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:19] "[32mGET /bookmarks/remove/2 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/May/2022 16:12:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Вывод комментариев к посту
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:24] "[32mGET /bookmarks/add/1 HTTP/1.1[0m" 302 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:25] "GET /bookmarks HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:25] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:25] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 20:30:25] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:55:11] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:56:01] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:58:53] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:58:53] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:root:Получен список постов в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:58:58] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получен пост в виде JSON-списка
+INFO:werkzeug:127.0.0.1 - - [30/May/2022 22:58:58] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
